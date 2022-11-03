@@ -8,7 +8,7 @@ namespace ToDoList.ViewModels
     {
         public TodoListViewModel(IEnumerable<TodoItem> items)
         {
-            Items = new ObservableCollection<TodoItem>(items)
+            Items = new ObservableCollection<TodoItem>(items);
         }
         
         public ObservableCollection<TodoItem> Items { get; }
