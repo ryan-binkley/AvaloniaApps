@@ -5,6 +5,7 @@
       <map>
         <entry key="ToDoList/App.axaml" value="ToDoList/ToDoList.csproj" />
         <entry key="ToDoList/Views/MainWindow.axaml" value="ToDoList/ToDoList.csproj" />
+        <entry key="ToDoList/Views/TodoListView.axaml" value="ToDoList/ToDoList.csproj" />
       </map>
     </option>
   </component>
